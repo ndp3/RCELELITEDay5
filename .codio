@@ -1,0 +1,17 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Train Model": "python3 IsolationForestTraining.py",
+        "Test Model": "python3 IsolationForestTesting.py"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Virtual Desktop": "https://{{domain3000}}/",
+        "Project Index (static)": "https://{{domain}}/{{index}}",
+        "Current File (static)": "https://{{domain}}/{{filepath}}",
+        "Box URL": "https://{{domain3000}}/"
+  }
+}

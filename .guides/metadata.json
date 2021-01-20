@@ -1,0 +1,122 @@
+{
+ "sections": [
+  {
+   "id": "de88f6c5-8cc6-b011-f1d1-6b90b8718dc9",
+   "title": "Review CSV Data",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "mylib.py",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "CsvData.py",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree-guides-left",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Review-CSV-Data-de88.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "df5e5f44-175d-eaf9-e596-f77802f615e4",
+   "title": "Introduction to Machine Learning",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-to-Machine-Learning-df5e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7e199b2a-fa10-41d9-f402-3faa698b0771",
+   "title": "Isolation Forest",
+   "files": [
+    {
+     "path": ".guides/content/IsolationForest.png",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree-guides-left",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Isolation-Forest-7e19.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f142c561-d477-322a-1851-399b5658b5c1",
+   "title": "Training an Isolation Forest",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "IsolationForestTraining.py",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Training-an-Isolation-Forest-f142.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5c03b6da-aeb5-c89a-a7f5-ad194503fa2e",
+   "title": "Testing an Algorithm",
+   "files": [
+    {
+     "path": "IsolationForestTesting.py",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Testing-an-Algorithm-5c03.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

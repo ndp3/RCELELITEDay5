@@ -1,0 +1,35 @@
+{
+ "name": "Day 3 Live Learning",
+ "children": [
+  {
+   "title": "Review CSV Data",
+   "id": "7b437983-a19d-aa4e-2da3-4cafaf214ef3",
+   "type": "page",
+   "pageId": "de88f6c5-8cc6-b011-f1d1-6b90b8718dc9"
+  },
+  {
+   "title": "Introduction to Machine Learning",
+   "id": "df5e5f44-175d-eaf9-e596-f77802f615e4",
+   "type": "page",
+   "pageId": "df5e5f44-175d-eaf9-e596-f77802f615e4"
+  },
+  {
+   "title": "Isolation Forest",
+   "id": "7e199b2a-fa10-41d9-f402-3faa698b0771",
+   "type": "page",
+   "pageId": "7e199b2a-fa10-41d9-f402-3faa698b0771"
+  },
+  {
+   "title": "Training an Isolation Forest",
+   "id": "785da16f-1770-cc5f-dec7-95ab67b8863d",
+   "type": "page",
+   "pageId": "f142c561-d477-322a-1851-399b5658b5c1"
+  },
+  {
+   "title": "Testing an Algorithm",
+   "id": "546cd65c-38ef-1052-4cfb-2716b7751774",
+   "type": "page",
+   "pageId": "5c03b6da-aeb5-c89a-a7f5-ad194503fa2e"
+  }
+ ]
+}
